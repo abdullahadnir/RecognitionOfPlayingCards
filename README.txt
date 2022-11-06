@@ -1,4 +1,4 @@
-Hazırladığım veri seti Yolov4 ile eğitilmiştir. Veri seti ve eğitilmiş .weights uzantılı dosya açıklamaya eklenmiştir.
+Hazırladığım veri seti Yolov4 ile eğitilmiştir. Veri seti ve eğitilmiş .weights uzantılı dosyaya " https://drive.google.com/drive/folders/1tckA-NNIvwHI7pFGh-opJt-_LtvUdMV7?usp=sharing " linkinden erişebilirsiniz.
 Sadece iskambil destesinde bulunan Sinek A, Maça 8,Kupa K, Karo Q, Kupa A nesneleri tanımakta ve sınıflandırmaktadır.
 
 # yolo-with-opencv
